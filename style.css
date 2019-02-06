@@ -1,0 +1,22 @@
+title{
+    color: black;
+    font-weight: bold;
+}
+body{
+background-color: steelblue;
+}
+p{
+    color:salmon;
+    width: 100px;
+}
+h1{
+color: forestgreen;
+font-weight: bold;
+}
+h4{
+    color:midnightblue;    
+}
+h5{
+    color:red;
+    text-decoration: underline;
+}
